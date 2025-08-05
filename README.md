@@ -3,6 +3,19 @@ An interactive, responsive Intern Management Dashboard built with React (Vite), 
 
 Manage fundraising interns, track their referral donations in real-time, and view leaderboards, with dynamic search, filtering, and contribution statistics.
 
+## Dependencies need to install
+
+### npm i framer-motion
+### npm install tailwindcss @tailwindcss/vite
+### npx shadcn@latest init
+### npm install firebase
+### npm i react-router-dom
+
+and lastlly
+
+### npm run dev
+
+
 ## 🖥️ Features
 
 🌟 Real-time Firestore Data Sync — Instant updates from Firebase Cloud Firestore.
