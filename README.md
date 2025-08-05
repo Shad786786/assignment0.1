@@ -24,20 +24,35 @@ Manage fundraising interns, track their referral donations in real-time, and vie
 ## 📂 Project Structure
 src/
  ┣ components/
- ┃ ┣ AddIntern.tsx          # Form to add intern details to Firestore
+ 
+ ┃ ┣ AddIntern.tsx           # Form to add intern details to Firestore
+ 
  ┃ ┗ RewardBar.tsx           # Progress/Reward bar component
+ 
  ┣ pages/
  ┃ ┗ InternDashboard.tsx     # Main Dashboard page (your current file)
+ 
  ┣ firebase.js                # Firebase config initialization
+ 
  ┣ App.tsx                    # Main App router
+ 
  ┗ index.tsx                  # Entry point
 
  
 ## 🔧 Tech Stack
-Frontend	Backend	UI Components
-React + Vite	Firebase Firestore	TailwindCSS
-React Router DOM	Firebase SDK	ShadCN/UI
-Framer Motion		
+### Frontend	Backend	UI Components
+
+### React + Vite
+
+### ShadCN/UI
+
+### TailwindCSS
+
+### Firebase Firestore
+
+### React Router DOM	Firebase SDK	
+
+### Framer Motion		
 
 
 
