@@ -1,9 +1,10 @@
-🚀 Intern Dashboard — React + TailwindCSS + Firebase + ShadCN
+### 🚀 Intern Dashboard — React + TailwindCSS + Firebase + ShadCN
 An interactive, responsive Intern Management Dashboard built with React (Vite), TailwindCSS, ShadCN UI components, and Firebase Firestore as the backend database.
 
 Manage fundraising interns, track their referral donations in real-time, and view leaderboards, with dynamic search, filtering, and contribution statistics.
 
-🖥️ Features
+## 🖥️ Features
+
 🌟 Real-time Firestore Data Sync — Instant updates from Firebase Cloud Firestore.
 
 🧮 Total Donations Sum Calculator — Live summing of all intern donations.
@@ -20,10 +21,7 @@ Manage fundraising interns, track their referral donations in real-time, and vie
 
 ⚡ Optimized with React Vite — Super-fast build & development experience.
 
-📂 Project Structure
-bash
-Copy
-Edit
+## 📂 Project Structure
 src/
  ┣ components/
  ┃ ┣ AddIntern.tsx          # Form to add intern details to Firestore
@@ -33,57 +31,20 @@ src/
  ┣ firebase.js                # Firebase config initialization
  ┣ App.tsx                    # Main App router
  ┗ index.tsx                  # Entry point
-🔧 Tech Stack
+
+ 
+## 🔧 Tech Stack
 Frontend	Backend	UI Components
 React + Vite	Firebase Firestore	TailwindCSS
 React Router DOM	Firebase SDK	ShadCN/UI
 Framer Motion		
 
-📦 Installation & Setup
-Clone the Repository
 
-bash
-Copy
-Edit
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
-Install Dependencies
 
-bash
-Copy
-Edit
-npm install
-Configure Firebase
 
-Go to src/firebase.js and add your Firebase project credentials.
+## Dashboard View	Mobile View
 
-js
-Copy
-Edit
-import { initializeApp } from "firebase/app";
-import { getFirestore } from "firebase/firestore";
-
-const firebaseConfig = {
-  apiKey: "YOUR_API_KEY",
-  authDomain: "YOUR_AUTH_DOMAIN",
-  projectId: "YOUR_PROJECT_ID",
-  storageBucket: "YOUR_STORAGE_BUCKET",
-  messagingSenderId: "YOUR_SENDER_ID",
-  appId: "YOUR_APP_ID"
-};
-
-const app = initializeApp(firebaseConfig);
-export const db = getFirestore(app);
-Run the Development Server
-
-bash
-Copy
-Edit
-npm run dev
-📸 Screenshots
-Dashboard View	Mobile View
-
-🛠️ Future Improvements
+# 🛠️ Future Improvements
 🔔 Real-time Notifications on New Donations.
 
 📊 Interactive Leaderboard with Graph Visualizations.
@@ -94,9 +55,9 @@ Dashboard View	Mobile View
 
 🎉 Gamification (Rewards & Badges).
 
-📝 License
+## 📝 License
 MIT License. Feel free to fork, modify, and share this project with attribution.
 
-🙌 Credits
+## 🙌 Credits
 Made with ❤️ by Shad Ahmad Siddiqui
 Connect with me on LinkedIn
