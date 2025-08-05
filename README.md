@@ -1,4 +1,4 @@
-### 🚀 Intern Dashboard — React + TailwindCSS + Firebase + ShadCN
+# 🚀 Intern Dashboard — React + TailwindCSS + Firebase + ShadCN
 An interactive, responsive Intern Management Dashboard built with React (Vite), TailwindCSS, ShadCN UI components, and Firebase Firestore as the backend database.
 
 Manage fundraising interns, track their referral donations in real-time, and view leaderboards, with dynamic search, filtering, and contribution statistics.
@@ -44,7 +44,7 @@ Framer Motion
 
 ## Dashboard View	Mobile View
 
-# 🛠️ Future Improvements
+## 🛠️ Future Improvements
 🔔 Real-time Notifications on New Donations.
 
 📊 Interactive Leaderboard with Graph Visualizations.
