@@ -74,5 +74,5 @@ src/
 MIT License. Feel free to fork, modify, and share this project with attribution.
 
 ## 🙌 Credits
-Made with ❤️ by Shad Ahmad Siddiqui
+Made with ❤️ by Shad
 Connect with me on LinkedIn
